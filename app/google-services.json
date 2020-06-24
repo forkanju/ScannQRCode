@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286721274137",
+    "firebase_url": "https://scannqrcode-f94ee.firebaseio.com",
+    "project_id": "scannqrcode-f94ee",
+    "storage_bucket": "scannqrcode-f94ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286721274137:android:f476c9d16c802afdbb9588",
+        "android_client_info": {
+          "package_name": "com.fatrain.android.scannqrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286721274137-e9vjoet0a3hssa3113741v4jsh2r8h4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUE_4Ftw1uRIBRJTWtKPi7PCdO3MtXCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286721274137-e9vjoet0a3hssa3113741v4jsh2r8h4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
